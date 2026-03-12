@@ -1,4 +1,4 @@
 # new-project-demo
-This is my first Git Repository<br>Author - ( singh rajput)
+This is my first Git Repository<br>Author - ( aman singh rajput)
 
 
