@@ -1,4 +1,4 @@
 # new-project-demo
-This is my first Git Repository<br>Author - ASR
+This is my first Git Repository<br>Author - (anan singh rajput)
 
 
